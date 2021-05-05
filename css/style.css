@@ -1,0 +1,28 @@
+/* .carousel-inner{
+    width: 80%;
+    margin:auto;
+} */
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.banner-container{
+    background-color: #ffb6b9;
+}
+
+.banner-column{
+    
+    background-color: #8ac6d1;
+    border: 2px solid white;
+    text-align: center;
+}
+
+.navbar-container{
+    background-color: #263859;
+}
+
+/* aboutMe Section */
+.about-continer{
+    background-color:#1ee3cf ;
+}
