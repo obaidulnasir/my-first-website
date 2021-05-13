@@ -44,5 +44,39 @@ body{
     background-color: #ffb6b9;
 }
 
+/* contact section */
+.contact-continer{
+    background-color:#476095 ;
+}
 
- 
+.inner-form{
+    background-color: #5367918e;
+}
+/* contact button */
+.send-button{
+    background-color: #ffb6b9;
+}
+.send-button:hover{
+    color: black !important;
+    background-color: white; 
+}
+
+/* footer section */
+.footer-container{
+    background-color: #8ac6d1;
+}
+
+hr{
+    color: white;
+    
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+
+/* icons */
+.social-icons:hover{
+    font-size: 20px;
+    color: red;
+}
