@@ -4,7 +4,7 @@
 } */
 
 body{
-    font-family: 'Roboto', sans-serif;
+    font-family: Roboto;
 }
 
 .banner-container{
@@ -46,7 +46,7 @@ body{
 
 /* contact section */
 .contact-continer{
-    background-color:#476095 ;
+    background-color:#476095;
 }
 
 .inner-form{
@@ -76,7 +76,12 @@ a{
 }
 
 /* icons */
+.social-icons{
+    font-size: 2rem ;
+}
+
+
 .social-icons:hover{
-    font-size: 20px;
-    color: red;
+    font-size: 3rem;
+    color:#476095;
 }
